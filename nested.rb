@@ -80,7 +80,8 @@ def adding_matz
           :languages => ["C"]
         }
      }
-
+		 programmer_hash[:will_carter][:known_for] = "Javascript"
+		 programmer_hash
 
 end
 
